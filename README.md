@@ -1,10 +1,7 @@
 ## About
 
 This repository contains the code for the project, **Machine Leaning based CHAT-BOT**.
- 
 
-### Firm
-NOVELVOX-SOFTWARES
  
 
 ## Dependencies
